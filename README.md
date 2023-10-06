@@ -7,7 +7,7 @@ Visitor is a behavioral design pattern that lets you separate algorithms from th
 ![img_1.png](src/img_1.png)
 
 ## Example
-### Example name
+### XML export of shapes
 
 Example where visitor goal is to work with different shapes.
 It's concrete implementation is the XML exporter where we have all the 
